@@ -119,8 +119,8 @@ Connect With Me
 
 Website: [www.muhammadmuheet.com](www.muhammadmuheet.com)
 
-Portfolio: [View my work]([url](https://muhammadmuheet.com/portfolio))
+Portfolio: [View my work](https://muhammadmuheet.com/portfolio)
 
-LinkedIn: [https://www.linkedin.com/in/muhammadmuheet/]([url](https://www.linkedin.com/in/muhammadmuheet/))
+LinkedIn: [https://www.linkedin.com/in/muhammadmuheet/](https://www.linkedin.com/in/muhammadmuheet/)
 
 I’m open to conversations about WordPress, WooCommerce, React, technical SEO, AI integrations, website performance, and long-term maintenance.
